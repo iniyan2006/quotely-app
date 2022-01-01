@@ -1,5 +1,5 @@
 from kivymd.app import MDApp
-from kivymd.uix import MDLabel
+from kivymd.uix.label import MDLabel
 from kivymd.uix.button import MDRectangleFlatButton
 from kivy.network.urlrequest import UrlRequest
 from kivy.properties import StringProperty
